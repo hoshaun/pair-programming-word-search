@@ -1,3 +1,9 @@
+/*
+Contributors:
+- Shaun Ho
+(Partner did not respond so I was told to do this alone)
+*/
+
 const chai = require('chai');
 const assert = chai.assert;
 
